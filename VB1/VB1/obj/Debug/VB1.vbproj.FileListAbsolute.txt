@@ -1,0 +1,12 @@
+C:\temp\VB1\VB1\bin\Debug\VB1.exe.config
+C:\temp\VB1\VB1\bin\Debug\VB1.exe
+C:\temp\VB1\VB1\bin\Debug\VB1.pdb
+C:\temp\VB1\VB1\bin\Debug\VB1.xml
+C:\temp\VB1\VB1\obj\Debug\VB1.vbproj.AssemblyReference.cache
+C:\temp\VB1\VB1\obj\Debug\VB1.Form1.resources
+C:\temp\VB1\VB1\obj\Debug\VB1.Resources.resources
+C:\temp\VB1\VB1\obj\Debug\VB1.vbproj.GenerateResource.cache
+C:\temp\VB1\VB1\obj\Debug\VB1.vbproj.CoreCompileInputs.cache
+C:\temp\VB1\VB1\obj\Debug\VB1.exe
+C:\temp\VB1\VB1\obj\Debug\VB1.xml
+C:\temp\VB1\VB1\obj\Debug\VB1.pdb
